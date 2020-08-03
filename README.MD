@@ -2,7 +2,7 @@
 
 The image is built and uploaded to [Docker Hub](https://hub.docker.com/r/revianlabs/build--tools).
 
-Installed extensions (23 in total):
+Installed extensions:
 
 - Maven
 - Gradle
