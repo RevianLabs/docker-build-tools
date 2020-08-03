@@ -15,7 +15,7 @@ Maintained tag:
 
 ## Usage
 
-This image is meant to be used only for the building part of a Docker multi-stage build. For multi-stage build documentation, please check out the [official sources])https://docs.docker.com/develop/develop-images/multistage-build/)
+This image is meant to be used only for the building part of a Docker multi-stage build. For multi-stage build documentation, please check out the [official sources](https://docs.docker.com/develop/develop-images/multistage-build/)
 
 ## License
 
