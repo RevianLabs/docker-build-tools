@@ -1,0 +1,5 @@
+FROM debian:latest
+
+RUN apt update && \
+    apt install -y  maven gradle npm && \
+    npm install -g @angular/cli
