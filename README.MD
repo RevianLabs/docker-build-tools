@@ -1,6 +1,6 @@
 # Build-tools Docker image
 
-The image is built and uploaded to [Docker Hub](https://hub.docker.com/r/revianlabs/build--tools).
+The image is built and uploaded to [Docker Hub](https://hub.docker.com/r/revianlabs/build-tools).
 
 Installed build tools:
 
