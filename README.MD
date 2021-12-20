@@ -12,6 +12,8 @@ Installed build tools:
 Maintained tag:
 
 - Apline
+- Debian
+- Centos 8
 
 ## Usage
 
